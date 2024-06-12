@@ -37,6 +37,4 @@ Please ensure your code adheres to our coding standards and includes relevant te
 
 Related Projects:
 
-
-Screenshot:
-images/home.png
+![Screenshot of LillyShop](images/home.png)
