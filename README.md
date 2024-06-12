@@ -4,7 +4,7 @@ Introduction:
 LillyShop is an e-commerce platform designed to offer a seamless shopping experience. Built using modern web technologies, it provides a user-friendly interface for customers to browse, select, and purchase products. The platform is built with a focus on high performance, security, and scalability.
 
 Links:
-Deployed Site: LillyShop
+Deployed Site: https://lillyshop.netlify.app/
 Final Project Blog Article: Building LillyShop: From Concept to Launch
 Author's LinkedIn: https://www.linkedin.com/in/lyndandidiamaka/
 
@@ -35,6 +35,6 @@ Push your changes to your forked repository.
 Open a pull request to the main branch of the original repository.
 Please ensure your code adheres to our coding standards and includes relevant tests. For more details, refer to our Contributing Guidelines.
 
-Related Projects:
+Screenshot
 
 ![Screenshot of LillyShop](images/home.png)
